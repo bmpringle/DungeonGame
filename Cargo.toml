@@ -1,0 +1,7 @@
+[package]
+name = "dungeon_game"
+version = "0.1.0"
+authors = ["Ben Pringle <benjamin.m.pringle@gmail.com>"]
+edition = "2018"
+
+[dependencies]
